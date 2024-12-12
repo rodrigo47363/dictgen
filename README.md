@@ -36,6 +36,3 @@ Para generar contraseñas personalizadas, sigue las instrucciones proporcionadas
 ## Licencia
 
 Este proyecto está bajo la [Licencia MIT](LICENSE).
-```
-
-Este README.md incluye información básica sobre la instalación, uso, cómo contribuir y la licencia del proyecto. Puedes agregar más secciones, detalles o personalizarlo según tus necesidades y preferencias. ¡Espero que te sea útil!
